@@ -1,7 +1,7 @@
 /* Style Sheet created by: William Atek 5994 */
 
 body {
-	background-color: #FFFF99;
+	background-color: #1d1d1c;
 }
 
 img {
@@ -85,6 +85,8 @@ footer{
 	display: none;
 }
 
+}
+
 @media only screen and (min-width: 660px) { 
 	
 	nav li {
@@ -98,7 +100,6 @@ footer{
 		white-space: nowrap;
 	}
 	
-}
 
 main {
 	clear: left;
@@ -128,7 +129,7 @@ main {
 	list-style-position: inside;
 	margin-bottom: 5em;
 }
-}
+
 
 
 .tablet {
@@ -139,7 +140,7 @@ main {
 		font-weight: bold;
 		margin-top: 0.7em;
 	}
-}  }
+}  
 
 	nav li {
 		display: inline;
@@ -182,8 +183,6 @@ main {
 	list-style-position: inside;
 	margin-bottom: 5em;
 }
-}
-
 
 .tablet {
 	display: block;
@@ -196,8 +195,8 @@ main {
 }
 
 @media only screen and (min-width: 769px){
+
 }
-	
 	
 	 	#container {
 		width: 80%;
